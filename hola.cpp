@@ -34,4 +34,6 @@ void nuevoMetodo(){
 	cout << "Nuevo método" << endl;
 }
 
-
+void changeColor(){
+	cout << "Change color" << endl;
+}
