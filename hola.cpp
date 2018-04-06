@@ -37,3 +37,7 @@ void nuevoMetodo(){
 void changeColor(){
 	cout << "Change color" << endl;
 }
+
+void changeBackground(){
+	cout << "Change background" << endl;
+}
